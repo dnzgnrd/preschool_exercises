@@ -1,5 +1,6 @@
 meyveler=["Erik","elma","kiraz","kavun"]
 
+#for loop
 for x in meyveler:
   print(x)
 
