@@ -21,4 +21,4 @@ km =int(input("Uzaklık Kaç Kilometre"))
 mil = km * donusumOrani
 print(str(km)+" km = "+str(mil)+" mil eder")
 
-
+print("deniz"+21)

@@ -14,6 +14,3 @@ tupleDeger = ("deniz",) #böyle yazmalısın ki tuple olduğunu anlasın (tek el
 print(type(tupleDeger))
 
 #tuple de ekleme ve çıkarma yok unutmaa
-
-
-
